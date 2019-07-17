@@ -6,7 +6,7 @@
 
 
 /* put the log path here */
-#define PATH "/Users/prg/Desktop/krystaloggermac.log"
+#define PATH "/Users/xoo/Desktop/krystaloggermac.log"
 
 FILE *f;
 
