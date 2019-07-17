@@ -4,6 +4,9 @@ A sample tool to log key inputs on MacOS
 ## Purpose
 This project is essentially a clone of an old, unmaintained keylogger on github that I think serves as a great example of how a basic keylogger works. I do plan on maintaining this as its own project now.
 
+##### Update
+- Found the original project https://github.com/laurinpaech/Keylogger if this ever gets updated this repo will be archived.
+
 ## Usage
 Just set your log path in logger.c, cd to this folder then run "make". Then you can start this by running ./logger in that folder.
 
